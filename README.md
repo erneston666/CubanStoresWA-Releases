@@ -1,4 +1,4 @@
-# CubanStores WhatsApp Releases
+# CubanStoresWA Releases
 
 APK de la app de Android de CubanStores WhatsApp.
 
